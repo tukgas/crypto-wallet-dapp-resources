@@ -1,7 +1,7 @@
-# crypto-wallet-resources
+# Web3 crypto wallet & dapp develop resources
 
-## Specification
-### Ethereum
+### Specification
+#### Ethereum
 Ethereum JSON-RPC Specification
 https://ethereum.github.io/execution-apis/api-documentation/
 
