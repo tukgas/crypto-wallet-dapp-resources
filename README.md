@@ -22,3 +22,8 @@
 [EIP-1193: Ethereum Provider JavaScript API](https://eips.ethereum.org/EIPS/eip-1193)
 
 [EIP-1474: Remote procedure call specification](https://eips.ethereum.org/EIPS/eip-1474)
+
+#### Tools
+[Mnemonic Code Converter](https://iancoleman.io/bip39/)
+
+[Recovery Phrase Converter](https://bip39.onekey.so/index.html)
